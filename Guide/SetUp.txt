@@ -5,6 +5,5 @@ Using venv venv
 
 *For Powershell
 > ./venv/Scripts/activate
-
 *For Git Base
 > source /venv/Scripts/activate
