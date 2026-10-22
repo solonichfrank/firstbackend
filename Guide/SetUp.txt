@@ -1,0 +1,10 @@
+To make virtual enviroment
+> python -m venv venv
+
+Using venv venv
+
+*For Powershell
+> ./venv/Scripts/activate
+
+*For Git Base
+> source /venv/Scripts/activate
